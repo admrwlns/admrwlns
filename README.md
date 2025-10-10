@@ -12,8 +12,8 @@ I believe that great engineering combines **innovation**, **precision**, and **p
 ---
 
 ### Technical Skills  
-**Languages:** Java · C++ · Python · C  
-**Tools & Frameworks:** Arduino IDE · Git/GitHub · Xcode · VS Code  
+**Languages:** Java · C++ · C · Python · Haskell
+**Tools & Frameworks:** Arduino IDE · Git/GitHub · Dev-C++ · VLab · VS Code  
 **Concepts:** Object-Oriented Programming · Software Architecture · UI/UX Design · Debugging · Systems Development
 
 ---
