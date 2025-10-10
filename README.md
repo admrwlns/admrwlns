@@ -1,4 +1,4 @@
-# Hi, I'm Adam 👋  
+# Heyy, I'm Adam 👋  
 **BSc Computer Science student** at the **University of Birmingham**  
 **Sabah Government Scholar** | **Aspiring Software Engineer** | **From Malaysia, based in Birmingham, UK**
 
@@ -7,13 +7,16 @@
 ### About Me  
 I'm passionate about building **intelligent, efficient, and human-centred software**.  
 My journey began with a curiosity for how technology can bridge real-world gaps all the way from smart systems to creative digital experiences.  
+
 I believe that great engineering combines **innovation**, **precision**, and **purpose**.
 
 ---
 
 ### Technical Skills  
-**Languages:** Java · C++ · C · Python · Haskell
+**Languages:** Java · C++ · C · Python · Haskell 
+
 **Tools & Frameworks:** Arduino IDE · Git/GitHub · Dev-C++ · VLab · VS Code  
+
 **Concepts:** Object-Oriented Programming · Software Architecture · UI/UX Design · Debugging · Systems Development
 
 ---
