@@ -6,7 +6,7 @@
 
 ### 🧠 About Me  
 I'm passionate about building **intelligent, efficient, and human-centred software**.  
-My journey began with a curiosity for how technology can bridge real-world gaps — from smart systems to creative digital experiences.  
+My journey began with a curiosity for how technology can bridge real-world gaps all the way from smart systems to creative digital experiences.  
 I believe that great engineering combines **innovation**, **precision**, and **purpose**.
 
 ---
@@ -28,7 +28,7 @@ A **smart door security system** using C++ and Arduino IDE with a custom UI.
 🔗 [View Repository](#)  
 
 #### 🏥 JAFN Hospital Billing System  
-Developed in **C** to streamline hospital billing and secure patient data.  
+Developed in **C** to streamline mock hospital billing and secure patient data.  
 Features password-ID combo login and optimized data management.  
 🔗 [View Repository](#)  
 
@@ -37,7 +37,7 @@ A **Java-based text adventure game** showcasing modular OOP architecture and cre
 🔗 [View Repository](#)  
 
 #### 📂 Reliable Rhinos File Editor  
-Mock **C++ file-editing software** enabling file creation, copying, and management with a user-friendly interface.  
+Mock **C++ file-editing software** enabling file creation, copying, and management.  
 🔗 [View Repository](#)  
 
 ---
