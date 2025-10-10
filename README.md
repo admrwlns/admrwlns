@@ -42,7 +42,7 @@ Mock **C++ file-editing software** enabling file creation, copying, and manageme
 
 ---
 
-### 🌍 Connect With Me  
+### Connect With Me  
 📧 [adamaburawlins@gmail.com](mailto:adamaburawlins@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/admrwlns2024)  
 
