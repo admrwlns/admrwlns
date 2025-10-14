@@ -33,7 +33,7 @@ A **smart door security system** using C++ and Arduino IDE with a custom UI.
 #### 2. JAFN Hospital Billing System  
 Developed in **C** to streamline mock hospital billing and secure patient data.  
 Features password-ID combo login and optimized data management.  
-🔗 [View Repository](#)  
+🔗 [View Repository](https://github.com/admrwlns/JAFN-Hosptal-Billing-System)  
 
 #### 3. The Chrono Odyssey  
 A **Java-based text adventure game** showcasing modular OOP architecture and creative storytelling.  
