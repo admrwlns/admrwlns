@@ -28,7 +28,7 @@ A **smart door security system** using C++ and Arduino IDE with a custom UI.
 🏅 *GOLD – Arduino Showcase 2023*  
 🏅 *SILVER – PIITRAM 2024*  
 🏅 *SILVER – Creations de UiTM 2024*  
-🔗 [View Repository](#)  
+🔗 [View Repository](https://github.com/admrwlns/LockMinder)  
 
 #### 2. JAFN Hospital Billing System  
 Developed in **C** to streamline mock hospital billing and secure patient data.  
