@@ -43,6 +43,10 @@ A **Java-based text adventure game** showcasing modular OOP architecture and cre
 Mock **C++ file-editing software** enabling file creation, copying, and management.  
 🔗 [View Repository](#)  
 
+#### 4. Cafe Ordering System
+Developed in **C** to streamline mock cafe ordering system.    
+🔗 [View Repository](#)  
+
 ---
 
 ### Connect With Me  
