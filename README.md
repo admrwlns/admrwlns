@@ -41,7 +41,7 @@ A **Java-based text adventure game** showcasing modular OOP architecture and cre
 
 #### 4. Reliable Rhinos File Editor  
 Mock **C++ file-editing software** enabling file creation, copying, and management.  
-🔗 [View Repository](#)  
+🔗 [View Repository](https://github.com/admrwlns/Reliable-Rhinos-File-Editing-Software)  
 
 #### 4. Cafe Ordering System
 Developed in **C** to streamline mock cafe ordering system.    
