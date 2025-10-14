@@ -45,7 +45,7 @@ Mock **C++ file-editing software** enabling file creation, copying, and manageme
 
 #### 4. Cafe Ordering System
 Developed in **C** to streamline mock cafe ordering system.    
-🔗 [View Repository](#)  
+🔗 [View Repository](https://github.com/admrwlns/Cafe-Ordering-System)  
 
 ---
 
